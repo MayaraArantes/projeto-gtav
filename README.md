@@ -21,7 +21,7 @@
 
 ### VIDEO:
 
-<a href="https://github.com/MayaraArantes/projeto-gtav/assets/140278244/0d2314d3-0f46-4634-9f75-cc2bea249183"></a>
+<a href="https://github.com/MayaraArantes/projeto-gtav/assets/140278244/0d2314d3-0f46-4634-9f75-cc2bea249183" target="_blank"></a>
 
 
 
