@@ -3,7 +3,7 @@
 <span> PROJETO GRAND THEFT  AUTO V </span>
 </h2>
 
-<p>Meu primeiro projeto responsivo, realizado na "Semana do Programador Contratado" junto ao <a href="https://www.youtube.com/c/DevemDobro">Dev Em Dobro</a>. Esse projeto está incrível,
+<p>Meu primeiro projeto responsivo, realizado na "Semana do Zero ao Programador Contratado" junto ao <a href="https://www.youtube.com/c/DevemDobro">Dev Em Dobro</a>. Esse projeto está incrível,
  e obtive grandes conhecimentos, e meu objetivo é me aprimorar e evoluir a cada dia mais.</p><br>
 
 ## Linguagens utilizadas:
@@ -20,3 +20,9 @@
 
 
 ### VIDEO:
+
+<a href="https://github.com/MayaraArantes/projeto-gtav/assets/140278244/0d2314d3-0f46-4634-9f75-cc2bea249183"></a>
+
+
+
+
